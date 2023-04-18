@@ -1,4 +1,4 @@
-FILEPATH = "C:/pythonProject/webapp/venv/Web app/Todos.txt"
+FILEPATH = "C:/pythonProject/webapp/venv/Web_app/Todos.txt"
 
 
 # create a custom function outside the loop to remove repetitive codes - use def for custom function. 2 break lines
